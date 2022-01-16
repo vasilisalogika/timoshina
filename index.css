@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(200, 242, 255);
+    padding: 10px;
+}
+
+header a {
+    border: 1px solid rgb(166, 230, 250);
+    padding: 5px;
+    background-color: rgb(166, 230, 250);
+    border-radius: 110px;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(166, 230, 250);
+    border: 1px solid rgb(166, 230, 250);
+}
+
+footer {
+    border: 1px solid rgb(166, 230, 250);
+    background-color: rgb(200, 242, 255);
+}
+
+footer p {
+    background-color: rgb(166, 230, 250);
+}
+
+nav a {
+    background-color: rgb(166, 230, 250);
+    border: 5px solid rgb(166, 230, 250);
+    text-align: center;
+    margin: 40px;
+    border-radius: 110px;
+    padding: 1px;
+}
+
+.produkt {
+    border: 1px solid rgb(166, 230, 250);
+    background-color: rgb(200, 242, 255);
+ }
+
+ h2 {
+    color: rgb(166, 230, 250);
+    border: 1px solid rgb(166, 230, 250);
+    text-align: center;
+ }
